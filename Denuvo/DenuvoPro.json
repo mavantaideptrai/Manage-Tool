@@ -11,6 +11,6 @@
     "chin": "//button[contains(@class, 'popup-button') and contains(@class, 'danger') and .//span[@class='i18n']]",
     "muoi": "Sẽ trả giá đắt",
     "muoimot": "Sẽ trả giá đắt",
-    "muoihai": "Sẽ trả giá đắt",
+    "muoiba": "Sẽ trả giá đắt",
     "hhahahahhahaha": "Cát bụi lại về với cát bụi"
 }
