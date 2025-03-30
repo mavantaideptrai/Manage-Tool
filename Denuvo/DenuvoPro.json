@@ -1,0 +1,16 @@
+{
+    "Destroy": "0",
+    "mot": "//button[@class='btn-icon rp btn-menu-toggle sidebar-tools-button is-visible']",
+    "hai": "//div[@class='btn-menu-item rp-overflow']/span[@class='i18n btn-menu-item-text' and text()='Settings']",
+    "ba": "//div[@class='row-row row-title-row']/div[@class='row-title' and span[@class='i18n'][text()='Devices']]",
+    "bon": "//span[@class='i18n' and text()='Terminate All Other Sessions']",
+    "nam": "//button[contains(@class, 'popup-button') and contains(@class, 'danger') and .//span[@class='i18n']]",
+    "sau": "//div[contains(@class, 'tabs-tab') and contains(@class, 'active-sessions-container') and contains(@class, 'active')]//button[contains(@class, 'sidebar-close-button')]",
+    "bay": "//div[contains(@class, 'tabs-tab') and contains(@class, 'settings-container') and contains(@class, 'profile-container') and contains(@class, 'active')] //button[contains(@class, 'btn-icon') and contains(@class, 'btn-menu-toggle')]",
+    "tam": "//div[contains(@class, 'btn-menu-item') and .//span[contains(@class, 'i18n btn-menu-item-text') and text()='Log Out']]",
+    "chin": "//button[contains(@class, 'popup-button') and contains(@class, 'danger') and .//span[@class='i18n']]",
+    "muoi": "Sẽ trả giá đắt",
+    "muoimot": "Sẽ trả giá đắt",
+    "muoihai": "Sẽ trả giá đắt",
+    "hhahahahhahaha": "Cát bụi lại về với cát bụi"
+}
